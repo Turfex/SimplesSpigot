@@ -1,0 +1,4 @@
+name: SimplesSpigot
+version: '${project.version}'
+main: de.philcraft.simplesspigot.SimplesSpigot
+api-version: '1.21'
